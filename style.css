@@ -1,0 +1,57 @@
+* { 
+		box-sizing: border-box;
+ }
+
+body {
+	background-color: #00796B; 
+	margin: 0%;
+	font-family: 'Pacifico', cursive;
+}
+
+header {
+	background-color: #004D40;
+	color: white;
+	text-align: center; 
+	padding: 15px;
+	font-family: 'Fjalla One', sans-serif;
+}
+
+	header .profile-picture {
+		width: 125px;
+		height: 125px;
+		display: block;
+		margin: 0 auto;
+		border-radius: 80px;
+
+		
+	}
+
+		section .title{
+				color: #90A4AE ;
+				font-family: 'Lobster', cursive;
+
+		}	
+
+		section .content{
+				color: #212121;
+		}
+
+section {
+	font-family: 'Signika', sans-serif;
+	background-color: #B2DFDB;
+	padding: 18px; 
+	margin: 35px;
+	border-radius: 25px;
+	color: #000000;
+}
+
+footer {
+	background-color: black;
+	position: 0;
+	bottom: 0; 
+	width: 100%;
+	padding-top: 15px;
+	padding-bottom: 15px; 
+	text-align: center;
+	color: white;
+}
